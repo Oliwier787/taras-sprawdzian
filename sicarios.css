@@ -1,0 +1,14 @@
+#pierwszy {
+    background-color: greenyellow;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+.rest {
+    width: 25px;
+    height: 25px;
+    margin:auto;
+    float: left;
+    background-color: blue;
+}
+
